@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-\/CRbZZ6en3BoMsR5fhsJCTE9TYhik+E7KU+O9cBdC9c=",
       "System.Private.CoreLib.dll": "sha256-ftEeXsH4HQ3J6VlVJuI3mbfqZxGyNtYVxuIQD\/8waHw=",
       "ShopMania.Models.dll": "sha256-2q70bpgF5UXW6jCaol+DnWfDajT3KgCaxqDwcuGgGvY=",
-      "ShopMania.Web.dll": "sha256-6P8UDTU+gr4HFRY6ZCs2pilU635FlezsoR60h5MQzaE="
+      "ShopMania.Web.dll": "sha256-kLsODEQBoFJ6Hoh3DTNAhSBrgRQzxRl+ypatA+EiA2I="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "ShopMania.Models.pdb": "sha256-DUruaHqjdxpachHXyz5XpLL9OYyo8FX5OP13aR0SDOA=",
-      "ShopMania.Web.pdb": "sha256-pVgthzB8\/9GByQ140ZhHPwad0LNMOZYMHUIU4uvv7GQ="
+      "ShopMania.Web.pdb": "sha256-z81srNendAUYBZZ5NYlkW+pSEY7YQvMVv1MWyvwBTnU="
     },
     "runtime": {
       "dotnet.6.0.12.rghbrmus5e.js": "sha256-qD0QxS71qYTQZMj+JDk0IXr28ewa+pSDzShFKSNkQ+0=",
