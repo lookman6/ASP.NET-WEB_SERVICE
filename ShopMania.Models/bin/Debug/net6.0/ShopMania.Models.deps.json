@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShopMania.Models/1.0.0": {
+        "runtime": {
+          "ShopMania.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopMania.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
