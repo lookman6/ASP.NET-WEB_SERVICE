@@ -196,15 +196,15 @@
       "mscorlib.dll": "sha256-AtjrcSyN9gleNjzHPZRVJVh6sNEX1FxRBHN\/ZN6Yt3Q=",
       "netstandard.dll": "sha256-\/CRbZZ6en3BoMsR5fhsJCTE9TYhik+E7KU+O9cBdC9c=",
       "System.Private.CoreLib.dll": "sha256-ftEeXsH4HQ3J6VlVJuI3mbfqZxGyNtYVxuIQD\/8waHw=",
-      "ShopMania.Models.dll": "sha256-2q70bpgF5UXW6jCaol+DnWfDajT3KgCaxqDwcuGgGvY=",
-      "ShopMania.Web.dll": "sha256-kLsODEQBoFJ6Hoh3DTNAhSBrgRQzxRl+ypatA+EiA2I="
+      "ShopMania.Models.dll": "sha256-r7ksrbHWbnHTiEqEX0wBjlYn0PC6+gCxh6ewgk71gQM=",
+      "ShopMania.Web.dll": "sha256-F+v1\/FnSSZl205T9WwHLQE9XWVUyjrQS6SO4MI3zJGc="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "ShopMania.Models.pdb": "sha256-DUruaHqjdxpachHXyz5XpLL9OYyo8FX5OP13aR0SDOA=",
-      "ShopMania.Web.pdb": "sha256-z81srNendAUYBZZ5NYlkW+pSEY7YQvMVv1MWyvwBTnU="
+      "ShopMania.Models.pdb": "sha256-8Vy444wIi8g1OX9JsGYoKi5sGtSDOTfern+3GXzY1KU=",
+      "ShopMania.Web.pdb": "sha256-Gphp\/ogu7VDCDj5xhZOduiyGI8SFwul0X205ehUT1n4="
     },
     "runtime": {
       "dotnet.6.0.12.rghbrmus5e.js": "sha256-qD0QxS71qYTQZMj+JDk0IXr28ewa+pSDzShFKSNkQ+0=",
@@ -214,6 +214,12 @@
       "icudt_CJK.dat": "sha256-WPyI4hWDPnOw62Nr27FkzGjdbucZnQD+Ph+GOPhAedw=",
       "icudt_EFIGS.dat": "sha256-4RwaPx87Z4dvn77ie\/ro3\/QzyS+\/gGmO3Y\/0CSAXw4k=",
       "icudt_no_CJK.dat": "sha256-OxylFgLJlFqixsj+nLxYVsv5iZLvfIKMpLf9hrWaChA="
+    },
+    "runtimeAssets": {
+      "dotnet.wasm": {
+        "behavior": "dotnetwasm",
+        "hash": "sha256-dbGiNUUYXOjE0TbMyaKptlmkQ3rHr1RN6WSNpYuHUuo="
+      }
     },
     "satelliteResources": null
   }
